@@ -11,7 +11,7 @@ sections:
     title: About
     content: 대학교 재학 중
     actions:
-      - label: Contact Me
+      - label: 연락
         url: /contact
         style: button
   - section_id: recent-posts
