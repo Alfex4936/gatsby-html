@@ -1,7 +1,7 @@
 {
     "description": "Personal blogging theme for Stackbit",
     "layout_style": "overflow",
-    "palette": "violet",
+    "palette": "orange",
     "header": {
         "title": "Choi Seok Won",
         "tagline": "University Student",
